@@ -33,7 +33,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO-FF3D00?style=for-the-badge&logo=yolo&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)  
-![LightGBM](https://img.shields.io/badge/LightGBM-66B032?style=for-the-badge&logo=lightgbm&logoColor=white)  
+![PYGYM](https://img.shields.io/badge/pyGYM-66B032?style=for-the-badge&logo=lightgbm&logoColor=white)  
 ![FastAI](https://img.shields.io/badge/FastAI-0000FF?style=for-the-badge&logo=fastai&logoColor=white)  
 
 ### 🛠️ Tools & Others  
