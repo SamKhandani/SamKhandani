@@ -53,7 +53,6 @@
 
 <a href="https://github.com/sabzlearn-ir">
   <img  src="https://github-readme-stats.vercel.app/api?username=sabzlearn-ir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabzlearn-ir" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
